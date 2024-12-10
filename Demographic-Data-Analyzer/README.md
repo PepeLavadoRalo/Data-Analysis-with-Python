@@ -15,13 +15,13 @@ This project analyzes demographic data extracted from the 1994 U.S. Census Datab
 ## Installation
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/PepeLavadoRalo/demographic-data-analyzer.git
-  ```
+```bash
+git clone https://github.com/PepeLavadoRalo/demographic-data-analyzer.git
+```
 2. Navigate to the project directory
-  ```bash
-  cd demographic-data-analyzer
-  ```
+```bash
+cd demographic-data-analyzer
+```
 3.Install dependencies (Pandas is required):
 ```bash
 pip install pandas
@@ -29,13 +29,13 @@ pip install pandas
 ## Usage
 1. Place the dataset adult_data.csv in the project directory.
 2. Run the script to calculate and display results:
-   ```bash
-   python demographic_data_analyzer.py
-  ```
+```bash
+python demographic_data_analyzer.py
+```
 3.To run the tests
-  ```bash
-  python main.py
-  ```
+```bash
+python main.py
+```
 
 ## Tests
 Unit tests are provided in test_module.py to ensure the correctness of all calculations.
