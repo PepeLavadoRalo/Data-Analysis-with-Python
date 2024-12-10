@@ -32,7 +32,7 @@ pip install pandas
 ```bash
 python demographic_data_analyzer.py
 ```
-3.To run the tests
+ 3. To run the tests
 ```bash
 python main.py
 ```
