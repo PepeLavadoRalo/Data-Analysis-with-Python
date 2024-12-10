@@ -22,7 +22,7 @@ git clone https://github.com/PepeLavadoRalo/demographic-data-analyzer.git
 ```bash
 cd demographic-data-analyzer
 ```
-3.Install dependencies (Pandas is required):
+ 3.Install dependencies (Pandas is required):
 ```bash
 pip install pandas
 ```
